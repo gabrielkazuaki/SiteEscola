@@ -1,0 +1,9 @@
+header{
+    background-color: #424e61;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+}
+.imagem-cabeçalho{
+    width: 200px;
+}
