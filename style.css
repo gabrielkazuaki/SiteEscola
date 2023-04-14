@@ -40,5 +40,25 @@ body{
     padding: 10px 0;
 }
 .imagem-man{
-    width: 10%;
+    width: 230px;
+}
+.incone-estudante{
+    width: 24px;
+}
+.estudante-div{
+    text-align: center;
+}
+.estudantes-titulo{
+    text-align: center ;
+    padding: 50px 0;
+}
+.nicolas-estudante{
+    width: 250px;
+}
+.samuel-estudante{
+    width: 230px;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
